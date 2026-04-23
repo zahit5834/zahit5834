@@ -52,40 +52,13 @@ var mehmet = new Developer
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h3>🎫 SupportDesk</h3>
       <p>B2B destek yönetim platformu. Mikroservis mimarisiyle inşa edilmiş; kimlik doğrulama, bildirim, raporlama ve API gateway servisleri içerir.</p>
       <p>
         <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/Microservices-0078D7?style=flat&logoColor=white"/>
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🖥️ WinPanel</h3>
-      <p>Windows sunucular için hosting kontrol paneli. IIS, DNS ve FTP yönetimini otomatize eden Clean Architecture tabanlı sistem.</p>
-      <p>
-        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat&logoColor=white"/>
-        <img src="https://img.shields.io/badge/IIS-0078D4?style=flat&logo=microsoft&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔐 SecretVault</h3>
-      <p>Güvenli sır ve kimlik bilgisi yönetim uygulaması. .NET 8 ile geliştirilmiş.</p>
-      <p>
-        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Security-CC2927?style=flat&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🌐 YEA İç Mimarlık</h3>
-      <p>İç mimarlık firması için özel tasarlanmış, yüksek performanslı portfolyo yönetim sistemi.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Web-FF7139?style=flat&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Portfolio-0891b2?style=flat&logoColor=white"/>
       </p>
     </td>
   </tr>
