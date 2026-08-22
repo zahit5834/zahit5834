@@ -20,7 +20,7 @@ var mehmet = new Developer
     Location   = "Türkiye 🇹🇷",
     Focus      = new[] { "Backend", "Clean Architecture", "Microservices" },
     Stack      = new[] { ".NET 8", "C#", "SQL Server", "Docker", "RabbitMQ" },
-    Currently  = "SupportDesk — B2B destek platformu geliştiriyorum"
+    Currently  = "Otopanom — Araç Takip, Bakım ve Kontrolleri"
 };
 ```
 
